@@ -149,8 +149,9 @@ Press **`q`** on your keyboard while any video window is active to stop the prog
 ```
 invisible-cloak/
 │
-├── main.py          # Core application
-└── README.md        # This file
+├── main.py                              # Core application
+├── README.md                            # This file
+└── invisible-cloak-report.docx          # Project Report file
 ```
 
 ---
